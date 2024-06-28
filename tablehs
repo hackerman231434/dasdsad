@@ -1,8 +1,8 @@
 print("\n")
 
 print("UNC Environment Check")
-print("✅ - Pass, ⛔ - Fail, ⏺ - No test, ⚠️ - Missing aliases")
-print("\n✅ cache.invalidate") 
+print("✅ - Pass, ⛔ - Fail, ⏺ - No test, ⚠️ - Missing aliases\n")
+print("✅ cache.invalidate") 
 print("✅ cache.iscached ")  -- gave myself spoofed --
 print("✅ cache.replace ") 
 print("✅ cloneref ") 
